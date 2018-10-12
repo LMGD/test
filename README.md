@@ -1,2 +1,1 @@
-# test
-LMGD的测试仓库
+congtuo项目托管的
